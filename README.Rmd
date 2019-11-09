@@ -6,14 +6,30 @@ output: github_document
 library(magrittr)
 library(ggplot2)
 
-cranlogs::cran_downloads(package = c("mlr", "mlrMBO", "mlrCPO", "mlr3", "mlr3pipelines",
-                                     "caret"), 
-                         from = "2012-01-01", to = "2019-10-01") %>% 
-  ggplot(aes(x = date, y = count)) + 
+cranlogs::cran_downloads(package = c("mlr", "mlrMBO", "mlrCPO", "mlr3",
+  "mlr3pipelines", "caret"),
+from = "2012-01-01", to = "2019-10-01") %>%
+  ggplot(aes(x = date, y = count)) +
   geom_smooth(se = FALSE, size = 0.5) +
-  facet_wrap(~ package, scales = "free_y") +
-  labs(title = "Daily CRAN downloads from RStudio mirror", 
-       subtitle = "Data query via package 'cranlogs'.") +
+  facet_wrap(~package, scales = "free_y") +
+  labs(title = "Daily CRAN downloads from RStudio mirror",
+    subtitle = "Data query via package 'cranlogs'.") +
   theme_minimal()
 ```
+
+Created on 
+
+```{r, echo=FALSE}
+Sys.Date()
+```
+
+<details>
+<summary>Session Info</summary>
+
+```{r }
+sessionInfo()
+```
+
+</details>
+
 

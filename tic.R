@@ -6,5 +6,5 @@ if (ci_on_travis()) {
     add_code_step(rmarkdown::render("README.Rmd")) %>%
     add_step(step_setup_ssh()) %>%
     add_step(step_setup_push_deploy()) %>%
-    step_do_push_deploy(commit_paths = "README.md")
+    step_push_deploy(commit_paths = c("README.md", "README_files/"))
 }
