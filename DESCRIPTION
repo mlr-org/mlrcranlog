@@ -15,3 +15,7 @@ LazyData: true
 Roxygen: list(markdown = TRUE)
 URL: https://github.com/mlr-org/mlrcranlog
 BugReports: https://github.com/mlr-org/mlrcranlog/issues
+Imports: 
+    ggplot2,
+    cranlogs,
+    magrittr
