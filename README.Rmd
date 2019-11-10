@@ -2,13 +2,12 @@
 output: github_document
 ---
 
-```{r message=FALSE}
-library(magrittr)
-library(ggplot2)
+```{r message=FALSE, echo=FALSE}
+library("magrittr")
+library("ggplot2")
 
 cranlogs::cran_downloads(package = c("mlr", "mlrMBO", "mlrCPO", "mlr3",
-  "mlr3pipelines", "caret"),
-from = "2012-01-01", to = "2019-10-01") %>%
+  "mlr3pipelines", "caret"), from = "2012-01-01", to = "2019-10-01") %>%
   ggplot(aes(x = date, y = count)) +
   geom_smooth(se = FALSE, size = 0.5) +
   facet_wrap(~package, scales = "free_y") +
@@ -16,6 +15,27 @@ from = "2012-01-01", to = "2019-10-01") %>%
     subtitle = "Data query via package 'cranlogs'.") +
   theme_minimal()
 ```
+
+```{r message=FALSE, echo=FALSE}
+library("magrittr")
+library("ggplot2")
+library("dplyr")
+
+cranlogs::cran_downloads(package = c("mlr", "mlrMBO", "mlrCPO", "mlr3",
+  "mlr3pipelines", "caret"), from = "2012-01-01", 
+  to = "2019-10-01") %>%
+  mutate(dategroup = lubridate::floor_date(date, "1 month")) %>% 
+  group_by(dategroup, package) %>% 
+  summarise(dl_m = sum(count)) %>% 
+  ggplot(aes(x = dategroup, y = dl_m)) +
+  geom_smooth(se = FALSE, size = 0.5) +
+  facet_wrap(~package, scales = "free_y") +
+  labs(title = "Monthly CRAN downloads from RStudio mirror",
+    subtitle = "Data query via package 'cranlogs'.",
+    y = "count", x = "date") +
+  theme_minimal()
+```
+
 
 Created on 
 

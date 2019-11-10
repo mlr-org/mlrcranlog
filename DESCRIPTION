@@ -10,12 +10,13 @@ Authors@R:
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
-Encoding: UTF-8
-LazyData: true
-Roxygen: list(markdown = TRUE)
 URL: https://github.com/mlr-org/mlrcranlog
 BugReports: https://github.com/mlr-org/mlrcranlog/issues
 Imports: 
-    ggplot2,
     cranlogs,
+    dplyr,
+    ggplot2,
     magrittr
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
