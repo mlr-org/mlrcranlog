@@ -16,7 +16,8 @@ Imports:
     cranlogs,
     dplyr,
     ggplot2,
-    magrittr
+    magrittr,
+    lubridate
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
