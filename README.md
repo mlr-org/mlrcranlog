@@ -1,20 +1,7 @@
 
-``` r
-library(magrittr)
-library(ggplot2)
-
-cranlogs::cran_downloads(package = c("mlr", "mlrMBO", "mlrCPO", "mlr3",
-  "mlr3pipelines", "caret"),
-from = "2012-01-01", to = "2019-10-01") %>%
-  ggplot(aes(x = date, y = count)) +
-  geom_smooth(se = FALSE, size = 0.5) +
-  facet_wrap(~package, scales = "free_y") +
-  labs(title = "Daily CRAN downloads from RStudio mirror",
-    subtitle = "Data query via package 'cranlogs'.") +
-  theme_minimal()
-```
-
 ![](README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+
+![](README_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
 Created on
 
@@ -48,19 +35,20 @@ sessionInfo()
     ## [1] stats     graphics  grDevices utils     datasets  methods   base     
     ## 
     ## other attached packages:
-    ## [1] ggplot2_3.2.1 magrittr_1.5 
+    ## [1] dplyr_0.8.3   ggplot2_3.2.1 magrittr_1.5 
     ## 
     ## loaded via a namespace (and not attached):
     ##  [1] Rcpp_1.0.3       compiler_3.6.1   pillar_1.4.2     git2r_0.26.1    
-    ##  [5] tools_3.6.1      digest_0.6.22    lattice_0.20-38  nlme_3.1-140    
-    ##  [9] jsonlite_1.6     evaluate_0.14    memoise_1.1.0    tibble_2.1.3    
-    ## [13] gtable_0.3.0     mgcv_1.8-28      pkgconfig_2.0.3  rlang_0.4.1     
-    ## [17] Matrix_1.2-17    cli_1.1.0        curl_4.2         yaml_2.2.0      
-    ## [21] xfun_0.10        withr_2.1.2      stringr_1.4.0    httr_1.4.1      
-    ## [25] knitr_1.25       askpass_1.1      cranlogs_2.1.1   grid_3.6.1      
-    ## [29] R6_2.4.0         rmarkdown_1.16   backports_1.1.5  scales_1.0.0    
-    ## [33] tic_0.2.13.9021  htmltools_0.4.0  splines_3.6.1    assertthat_0.2.1
-    ## [37] colorspace_1.4-1 labeling_0.3     stringi_1.4.3    openssl_1.4.1   
-    ## [41] lazyeval_0.2.2   munsell_0.5.0    crayon_1.3.4
+    ##  [5] tools_3.6.1      digest_0.6.22    lubridate_1.7.4  lattice_0.20-38 
+    ##  [9] nlme_3.1-140     jsonlite_1.6     evaluate_0.14    memoise_1.1.0   
+    ## [13] tibble_2.1.3     gtable_0.3.0     mgcv_1.8-28      pkgconfig_2.0.3 
+    ## [17] rlang_0.4.1      Matrix_1.2-17    cli_1.1.0        curl_4.2        
+    ## [21] yaml_2.2.0       xfun_0.10        withr_2.1.2      stringr_1.4.0   
+    ## [25] httr_1.4.1       knitr_1.25       askpass_1.1      cranlogs_2.1.1  
+    ## [29] grid_3.6.1       tidyselect_0.2.5 glue_1.3.1       R6_2.4.0        
+    ## [33] rmarkdown_1.16   purrr_0.3.3      splines_3.6.1    backports_1.1.5 
+    ## [37] scales_1.0.0     tic_0.2.13.9021  htmltools_0.4.0  assertthat_0.2.1
+    ## [41] colorspace_1.4-1 labeling_0.3     stringi_1.4.3    openssl_1.4.1   
+    ## [45] lazyeval_0.2.2   munsell_0.5.0    crayon_1.3.4
 
 </details>
