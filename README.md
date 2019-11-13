@@ -48,7 +48,7 @@ sessionInfo()
     ## [13] rlang_0.4.1      cli_1.1.0        curl_4.2         yaml_2.2.0      
     ## [17] xfun_0.10        httr_1.4.1       withr_2.1.2      stringr_1.4.0   
     ## [21] knitr_1.25       askpass_1.1      cranlogs_2.1.1   grid_3.6.1      
-    ## [25] tidyselect_0.2.5 glue_1.3.1       R6_2.4.1         rmarkdown_1.16  
+    ## [25] tidyselect_0.2.5 glue_1.3.1       R6_2.4.1         rmarkdown_1.17  
     ## [29] purrr_0.3.3      backports_1.1.5  scales_1.0.0     tic_0.2.13.9021 
     ## [33] htmltools_0.4.0  assertthat_0.2.1 colorspace_1.4-1 labeling_0.3    
     ## [37] stringi_1.4.3    openssl_1.4.1    lazyeval_0.2.2   munsell_0.5.0   
