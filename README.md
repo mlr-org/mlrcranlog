@@ -9,7 +9,7 @@
 
 Created on
 
-    ## [1] "2019-11-21"
+    ## [1] "2019-11-22"
 
 <details>
 
@@ -45,7 +45,7 @@ sessionInfo()
     ##  [1] Rcpp_1.0.3       compiler_3.6.1   pillar_1.4.2     git2r_0.26.1    
     ##  [5] tools_3.6.1      digest_0.6.22    jsonlite_1.6     evaluate_0.14   
     ##  [9] memoise_1.1.0    lifecycle_0.1.0  tibble_2.1.3     gtable_0.3.0    
-    ## [13] pkgconfig_2.0.3  rlang_0.4.1.9000 cli_1.1.0        curl_4.2        
+    ## [13] pkgconfig_2.0.3  rlang_0.4.2      cli_1.1.0        curl_4.2        
     ## [17] yaml_2.2.0       xfun_0.10        httr_1.4.1       withr_2.1.2     
     ## [21] stringr_1.4.0    knitr_1.25       askpass_1.1      cranlogs_2.1.1  
     ## [25] grid_3.6.1       tidyselect_0.2.5 glue_1.3.1       R6_2.4.1        
