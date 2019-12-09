@@ -9,7 +9,7 @@
 
 Created on
 
-    ## [1] "2019-12-08"
+    ## [1] "2019-12-09"
 
 <details>
 
@@ -50,7 +50,7 @@ sessionInfo()
     ## [21] stringr_1.4.0    knitr_1.25       askpass_1.1      cranlogs_2.1.1  
     ## [25] grid_3.6.1       tidyselect_0.2.5 glue_1.3.1       R6_2.4.1        
     ## [29] rmarkdown_1.18   farver_2.0.1     purrr_0.3.3      backports_1.1.5 
-    ## [33] scales_1.1.0     tic_0.2.13.9021  htmltools_0.4.0  assertthat_0.2.1
+    ## [33] scales_1.1.0     tic_0.3.0.9000   htmltools_0.4.0  assertthat_0.2.1
     ## [37] colorspace_1.4-1 labeling_0.3     stringi_1.4.3    openssl_1.4.1   
     ## [41] lazyeval_0.2.2   munsell_0.5.0    crayon_1.3.4
 
