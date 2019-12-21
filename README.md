@@ -9,7 +9,7 @@
 
 Created on
 
-    ## [1] "2019-12-20"
+    ## [1] "2019-12-21"
 
 <details>
 
@@ -42,7 +42,7 @@ sessionInfo()
     ## [1] lubridate_1.7.4 dplyr_0.8.3     ggplot2_3.2.1   magrittr_1.5   
     ## 
     ## loaded via a namespace (and not attached):
-    ##  [1] Rcpp_1.0.3       compiler_3.6.1   pillar_1.4.2     git2r_0.26.1    
+    ##  [1] Rcpp_1.0.3       compiler_3.6.1   pillar_1.4.3     git2r_0.26.1    
     ##  [5] tools_3.6.1      digest_0.6.23    jsonlite_1.6     evaluate_0.14   
     ##  [9] memoise_1.1.0    lifecycle_0.1.0  tibble_2.1.3     gtable_0.3.0    
     ## [13] pkgconfig_2.0.3  rlang_0.4.2.9000 cli_2.0.0        curl_4.3        
