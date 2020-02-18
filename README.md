@@ -9,7 +9,7 @@
 
 Created on
 
-    ## [1] "2020-02-17"
+    ## [1] "2020-02-18"
 
 <details>
 
@@ -51,7 +51,7 @@ sessionInfo()
     ## [25] grid_3.6.2       tidyselect_1.0.0 glue_1.3.1       R6_2.4.1        
     ## [29] fansi_0.4.1      rmarkdown_2.1    farver_2.0.3     purrr_0.3.3     
     ## [33] tic_0.4.0        scales_1.1.0     htmltools_0.4.0  assertthat_0.2.1
-    ## [37] colorspace_1.4-1 labeling_0.3     stringi_1.4.5    openssl_1.4.1   
+    ## [37] colorspace_1.4-1 labeling_0.3     stringi_1.4.6    openssl_1.4.1   
     ## [41] lazyeval_0.2.2   munsell_0.5.0    crayon_1.3.4
 
 </details>
