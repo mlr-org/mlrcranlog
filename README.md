@@ -9,7 +9,7 @@
 
 Created on
 
-    ## [1] "2020-02-23"
+    ## [1] "2020-02-24"
 
 <details>
 
@@ -43,14 +43,14 @@ sessionInfo()
     ## 
     ## loaded via a namespace (and not attached):
     ##  [1] Rcpp_1.0.3       compiler_3.6.2   pillar_1.4.3     git2r_0.26.1    
-    ##  [5] tools_3.6.2      digest_0.6.24    jsonlite_1.6.1   evaluate_0.14   
+    ##  [5] tools_3.6.2      digest_0.6.25    jsonlite_1.6.1   evaluate_0.14   
     ##  [9] memoise_1.1.0    lifecycle_0.1.0  tibble_2.1.3     gtable_0.3.0    
     ## [13] pkgconfig_2.0.3  rlang_0.4.4      cli_2.0.1        curl_4.3        
     ## [17] yaml_2.2.0       xfun_0.11        httr_1.4.1       withr_2.1.2     
     ## [21] stringr_1.4.0    knitr_1.26       cranlogs_2.1.1   askpass_1.1     
     ## [25] grid_3.6.2       tidyselect_1.0.0 glue_1.3.1       R6_2.4.1        
     ## [29] fansi_0.4.1      rmarkdown_2.1    farver_2.0.3     purrr_0.3.3     
-    ## [33] tic_0.4.0        scales_1.1.0     htmltools_0.4.0  assertthat_0.2.1
+    ## [33] tic_0.4.0.9000   scales_1.1.0     htmltools_0.4.0  assertthat_0.2.1
     ## [37] colorspace_1.4-1 labeling_0.3     stringi_1.4.6    openssl_1.4.1   
     ## [41] lazyeval_0.2.2   munsell_0.5.0    crayon_1.3.4
 
