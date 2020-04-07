@@ -9,7 +9,7 @@
 
 Created on
 
-    ## [1] "2020-04-06"
+    ## [1] "2020-04-07"
 
 <details>
 
@@ -39,7 +39,7 @@ sessionInfo()
     ## [1] stats     graphics  grDevices utils     datasets  methods   base     
     ## 
     ## other attached packages:
-    ## [1] lubridate_1.7.4 dplyr_0.8.5     ggplot2_3.3.0   magrittr_1.5   
+    ## [1] lubridate_1.7.8 dplyr_0.8.5     ggplot2_3.3.0   magrittr_1.5   
     ## 
     ## loaded via a namespace (and not attached):
     ##  [1] Rcpp_1.0.4.6     compiler_3.6.2   pillar_1.4.3     git2r_0.26.1    
@@ -48,12 +48,12 @@ sessionInfo()
     ## [13] tibble_3.0.0     gtable_0.3.0     mgcv_1.8-31      pkgconfig_2.0.3 
     ## [17] rlang_0.4.5      Matrix_1.2-18    cli_2.0.2        curl_4.3        
     ## [21] yaml_2.2.1       xfun_0.12        httr_1.4.1       withr_2.1.2     
-    ## [25] stringr_1.4.0    knitr_1.28       cranlogs_2.1.1   vctrs_0.2.4     
-    ## [29] askpass_1.1      grid_3.6.2       tidyselect_1.0.0 glue_1.4.0      
-    ## [33] R6_2.4.1         fansi_0.4.1      rmarkdown_2.1    farver_2.0.3    
-    ## [37] purrr_0.3.3      splines_3.6.2    tic_0.6.0.9001   scales_1.1.0    
-    ## [41] htmltools_0.4.0  ellipsis_0.3.0   assertthat_0.2.1 colorspace_1.4-1
-    ## [45] labeling_0.3     stringi_1.4.6    openssl_1.4.1    munsell_0.5.0   
-    ## [49] crayon_1.3.4
+    ## [25] stringr_1.4.0    knitr_1.28       cranlogs_2.1.1   generics_0.0.2  
+    ## [29] vctrs_0.2.4      askpass_1.1      grid_3.6.2       tidyselect_1.0.0
+    ## [33] glue_1.4.0       R6_2.4.1         fansi_0.4.1      rmarkdown_2.1   
+    ## [37] farver_2.0.3     purrr_0.3.3      splines_3.6.2    tic_0.6.0.9002  
+    ## [41] scales_1.1.0     htmltools_0.4.0  ellipsis_0.3.0   assertthat_0.2.1
+    ## [45] colorspace_1.4-1 labeling_0.3     stringi_1.4.6    openssl_1.4.1   
+    ## [49] munsell_0.5.0    crayon_1.3.4
 
 </details>
