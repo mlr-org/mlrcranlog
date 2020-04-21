@@ -9,7 +9,7 @@
 
 Created on
 
-    ## [1] "2020-04-20"
+    ## [1] "2020-04-21"
 
 <details>
 
@@ -45,9 +45,9 @@ sessionInfo()
     ##  [1] Rcpp_1.0.4.8     compiler_3.6.2   pillar_1.4.3     git2r_0.26.1    
     ##  [5] tools_3.6.2      digest_0.6.25    lattice_0.20-38  nlme_3.1-142    
     ##  [9] jsonlite_1.6.1   evaluate_0.14    memoise_1.1.0    lifecycle_0.2.0 
-    ## [13] tibble_3.0.0     gtable_0.3.0     mgcv_1.8-31      pkgconfig_2.0.3 
+    ## [13] tibble_3.0.1     gtable_0.3.0     mgcv_1.8-31      pkgconfig_2.0.3 
     ## [17] rlang_0.4.5      Matrix_1.2-18    cli_2.0.2        curl_4.3        
-    ## [21] yaml_2.2.1       xfun_0.12        httr_1.4.1       withr_2.1.2     
+    ## [21] yaml_2.2.1       xfun_0.12        httr_1.4.1       withr_2.2.0     
     ## [25] stringr_1.4.0    knitr_1.28       cranlogs_2.1.1   generics_0.0.2  
     ## [29] vctrs_0.2.4      askpass_1.1      grid_3.6.2       tidyselect_1.0.0
     ## [33] glue_1.4.0       R6_2.4.1         fansi_0.4.1      rmarkdown_2.1   
