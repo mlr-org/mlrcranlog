@@ -9,7 +9,7 @@
 
 Created on
 
-    ## [1] "2020-05-02"
+    ## [1] "2020-05-03"
 
 <details>
 
@@ -46,7 +46,7 @@ sessionInfo()
     ##  [5] tools_4.0.0      digest_0.6.25    lattice_0.20-41  nlme_3.1-147    
     ##  [9] jsonlite_1.6.1   evaluate_0.14    memoise_1.1.0    lifecycle_0.2.0 
     ## [13] tibble_3.0.1     gtable_0.3.0     mgcv_1.8-31      pkgconfig_2.0.3 
-    ## [17] rlang_0.4.5      Matrix_1.2-18    cli_2.0.2        curl_4.3        
+    ## [17] rlang_0.4.6      Matrix_1.2-18    cli_2.0.2        curl_4.3        
     ## [21] yaml_2.2.1       xfun_0.13        httr_1.4.1       withr_2.2.0     
     ## [25] stringr_1.4.0    knitr_1.28       cranlogs_2.1.1   generics_0.0.2  
     ## [29] vctrs_0.2.4      askpass_1.1      grid_4.0.0       tidyselect_1.0.0
