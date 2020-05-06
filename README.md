@@ -9,7 +9,7 @@
 
 Created on
 
-    ## [1] "2020-05-05"
+    ## [1] "2020-05-06"
 
 <details>
 
@@ -42,7 +42,7 @@ sessionInfo()
     ## [1] lubridate_1.7.8 dplyr_0.8.5     ggplot2_3.3.0   magrittr_1.5   
     ## 
     ## loaded via a namespace (and not attached):
-    ##  [1] Rcpp_1.0.4.6     compiler_4.0.0   pillar_1.4.3     git2r_0.27.1    
+    ##  [1] Rcpp_1.0.4.6     compiler_4.0.0   pillar_1.4.4     git2r_0.27.1    
     ##  [5] tools_4.0.0      digest_0.6.25    lattice_0.20-41  nlme_3.1-147    
     ##  [9] jsonlite_1.6.1   evaluate_0.14    memoise_1.1.0    lifecycle_0.2.0 
     ## [13] tibble_3.0.1     gtable_0.3.0     mgcv_1.8-31      pkgconfig_2.0.3 
@@ -51,7 +51,7 @@ sessionInfo()
     ## [25] stringr_1.4.0    knitr_1.28       cranlogs_2.1.1   generics_0.0.2  
     ## [29] vctrs_0.2.4      askpass_1.1      grid_4.0.0       tidyselect_1.0.0
     ## [33] glue_1.4.0       R6_2.4.1         fansi_0.4.1      rmarkdown_2.1   
-    ## [37] farver_2.0.3     purrr_0.3.4      splines_4.0.0    tic_0.7.0       
+    ## [37] farver_2.0.3     purrr_0.3.4      splines_4.0.0    tic_0.7.0.9000  
     ## [41] scales_1.1.0     htmltools_0.4.0  ellipsis_0.3.0   assertthat_0.2.1
     ## [45] colorspace_1.4-1 labeling_0.3     stringi_1.4.6    openssl_1.4.1   
     ## [49] munsell_0.5.0    crayon_1.3.4
