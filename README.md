@@ -9,7 +9,7 @@
 
 Created on
 
-    ## [1] "2020-05-11"
+    ## [1] "2020-05-12"
 
 <details>
 
@@ -49,10 +49,10 @@ sessionInfo()
     ## [17] rlang_0.4.6      Matrix_1.2-18    cli_2.0.2        curl_4.3        
     ## [21] yaml_2.2.1       xfun_0.13        httr_1.4.1       withr_2.2.0     
     ## [25] stringr_1.4.0    knitr_1.28       cranlogs_2.1.1   generics_0.0.2  
-    ## [29] vctrs_0.2.4      askpass_1.1      grid_4.0.0       tidyselect_1.0.0
+    ## [29] vctrs_0.3.0      askpass_1.1      grid_4.0.0       tidyselect_1.1.0
     ## [33] glue_1.4.0       R6_2.4.1         fansi_0.4.1      rmarkdown_2.1   
     ## [37] farver_2.0.3     purrr_0.3.4      splines_4.0.0    tic_0.7.0.9000  
-    ## [41] scales_1.1.0     htmltools_0.4.0  ellipsis_0.3.0   assertthat_0.2.1
+    ## [41] scales_1.1.1     htmltools_0.4.0  ellipsis_0.3.0   assertthat_0.2.1
     ## [45] colorspace_1.4-1 labeling_0.3     stringi_1.4.6    openssl_1.4.1   
     ## [49] munsell_0.5.0    crayon_1.3.4
 
