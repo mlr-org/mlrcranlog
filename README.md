@@ -9,7 +9,7 @@
 
 Created on
 
-    ## [1] "2020-05-28"
+    ## [1] "2020-05-29"
 
 <details>
 
@@ -39,7 +39,7 @@ sessionInfo()
     ## [1] stats     graphics  grDevices utils     datasets  methods   base     
     ## 
     ## other attached packages:
-    ## [1] lubridate_1.7.8 dplyr_0.8.5     ggplot2_3.3.0   magrittr_1.5   
+    ## [1] lubridate_1.7.8 dplyr_0.8.5     ggplot2_3.3.1   magrittr_1.5   
     ## 
     ## loaded via a namespace (and not attached):
     ##  [1] Rcpp_1.0.4.6     compiler_4.0.0   pillar_1.4.4     git2r_0.27.1    
