@@ -9,7 +9,7 @@
 
 Created on
 
-    ## [1] "2020-10-12"
+    ## [1] "2020-10-13"
 
 <details>
 
@@ -45,15 +45,15 @@ sessionInfo()
     ##  [1] Rcpp_1.0.5       compiler_4.0.2   pillar_1.4.6     git2r_0.27.1    
     ##  [5] tools_4.0.2      digest_0.6.25    lattice_0.20-41  nlme_3.1-148    
     ##  [9] jsonlite_1.7.1   evaluate_0.14    memoise_1.1.0    lifecycle_0.2.0 
-    ## [13] tibble_3.0.3     gtable_0.3.0     mgcv_1.8-31      pkgconfig_2.0.3 
-    ## [17] rlang_0.4.8      Matrix_1.2-18    cli_2.0.2        curl_4.3        
-    ## [21] yaml_2.2.1       xfun_0.16        httr_1.4.2       withr_2.3.0     
-    ## [25] stringr_1.4.0    knitr_1.29       cranlogs_2.1.1   generics_0.0.2  
-    ## [29] vctrs_0.3.4      askpass_1.1      grid_4.0.2       tidyselect_1.1.0
-    ## [33] glue_1.4.2       R6_2.4.1         fansi_0.4.1      rmarkdown_2.4   
-    ## [37] farver_2.0.3     purrr_0.3.4      splines_4.0.2    tic_0.9.0.9006  
-    ## [41] scales_1.1.1     htmltools_0.5.0  ellipsis_0.3.1   assertthat_0.2.1
-    ## [45] colorspace_1.4-1 labeling_0.3     stringi_1.4.6    openssl_1.4.3   
-    ## [49] munsell_0.5.0    crayon_1.3.4
+    ## [13] tibble_3.0.4     gtable_0.3.0     mgcv_1.8-31      pkgconfig_2.0.3 
+    ## [17] rlang_0.4.8      Matrix_1.2-18    cli_2.1.0        rstudioapi_0.11 
+    ## [21] curl_4.3         yaml_2.2.1       xfun_0.16        httr_1.4.2      
+    ## [25] withr_2.3.0      stringr_1.4.0    knitr_1.29       cranlogs_2.1.1  
+    ## [29] generics_0.0.2   vctrs_0.3.4      askpass_1.1      grid_4.0.2      
+    ## [33] tidyselect_1.1.0 glue_1.4.2       R6_2.4.1         fansi_0.4.1     
+    ## [37] rmarkdown_2.4    farver_2.0.3     purrr_0.3.4      splines_4.0.2   
+    ## [41] tic_0.9.0.9006   scales_1.1.1     ps_1.4.0         htmltools_0.5.0 
+    ## [45] ellipsis_0.3.1   assertthat_0.2.1 colorspace_1.4-1 labeling_0.3    
+    ## [49] stringi_1.4.6    openssl_1.4.3    munsell_0.5.0    crayon_1.3.4
 
 </details>
