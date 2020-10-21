@@ -9,7 +9,7 @@
 
 Created on
 
-    ## [1] "2020-10-20"
+    ## [1] "2020-10-21"
 
 <details>
 
@@ -53,7 +53,7 @@ sessionInfo()
     ## [33] tidyselect_1.1.0 glue_1.4.2       R6_2.4.1         fansi_0.4.1     
     ## [37] rmarkdown_2.4    farver_2.0.3     purrr_0.3.4      splines_4.0.2   
     ## [41] tic_0.9.0.9006   scales_1.1.1     ps_1.4.0         htmltools_0.5.0 
-    ## [45] ellipsis_0.3.1   assertthat_0.2.1 colorspace_1.4-1 labeling_0.3    
+    ## [45] ellipsis_0.3.1   assertthat_0.2.1 colorspace_1.4-1 labeling_0.4.2  
     ## [49] stringi_1.4.6    openssl_1.4.3    munsell_0.5.0    crayon_1.3.4
 
 </details>
